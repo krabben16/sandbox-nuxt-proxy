@@ -1,2 +1,5 @@
 # test-nuxt-proxy
-@nuxtjs/proxyの動作確認
+
+```shell
+npm run dev
+```
